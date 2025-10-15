@@ -1,4 +1,3 @@
-import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from data_analysis import df
